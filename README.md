@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="LibreOffice interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Microsoft_Office_Professional_2021_Apps.png/1280px-Microsoft_Office_Professional_2021_Apps.png" />
+<img width="2880" height="1620" alt="LibreOffice interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Screenshot_of_LibreOffice_25_on_Debian_Trixie.png/1280px-Screenshot_of_LibreOffice_25_on_Debian_Trixie.png" />
 </div>
 
 ---
